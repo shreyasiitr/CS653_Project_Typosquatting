@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "async": "^2.6.0",
+    "csv-parse": "^1.0.0",
+    "deep-diff": "^0.3.8",
+    "htm-to-json": "^0.1.4",
+    "linkscrape": "^1.0.0",
+    "request": "^2.83.0",
+    "sanitize-html": "^1.16.1"
+  }
+}
